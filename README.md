@@ -1,4 +1,4 @@
-# Tutorial
+# MBAM Bitlocker and TCG logs from Event logs and other important values
 
 The original is based on a script by Tanner Slayton 
 https://github.com/tslayton/Ignite_2016
